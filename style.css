@@ -1,0 +1,13 @@
+.divGrid {
+  background-color: #2196f3;
+  width: 500px;
+  height: 500px;
+  margin: 10px;
+}
+.main {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 5px;
+  display: grid;
+  grid-template-columns: auto;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+}
