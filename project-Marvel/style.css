@@ -1,0 +1,20 @@
+body {
+}
+.marveLogo {
+  width: 5vw;
+  height: 5vh;
+}
+
+.btn-outline-success {
+  color: red;
+  border-color: red;
+}
+.btn-outline-success:hover {
+  background-color: red;
+  border: red;
+}
+.main {
+  display: flex;
+  width: 100vw;
+  height: 70vh;
+}
